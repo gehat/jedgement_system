@@ -18,4 +18,4 @@ export PC2HOME=Путь_до_PC^2 (указывая путь до распако
 export PATH="$PC2HOME/bin:$PATH:$JAVAHOME/bin" (добавьте эти пути к переменной $PATH)
 ```
 Пример:
-![Screenshot](https://github.com/gehat/jedgement_system/tree/master/image/1.png)
+![Screenshot](https://github.com/gehat/jedgement_system/master/image/1.png)
