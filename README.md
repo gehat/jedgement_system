@@ -44,4 +44,4 @@ pc2admin
 bash pc2wti
 ```
 #### Веб-интерфейс будет доступен по адресу "localhost:8080", если вы не изменили настройки в файле "pc2v9.ini" в папке "WebTeamInterface".
-eg. [Официальная документация](https://pc2ccs.github.io/current/)
+[Официальная документация](https://pc2ccs.github.io/current/)
