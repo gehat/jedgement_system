@@ -4,9 +4,9 @@
 ## Шаг 1: Установка Java
 Для начала установите Java с помощью следующих команд:
 ```diff
-+ sudo apt update
-+ sudo apt install default-jre
-+ sudo apt install default-jdk
+sudo apt update
+sudo apt install default-jre
+sudo apt install default-jdk
 ```
 ## Шаг 2: Распаковка архив с github
 Файл  "pc2v9.ini" переместите в вашу домашнюю директорию "/home/ваш_пользователь/".
