@@ -17,5 +17,7 @@ export JAVAHOME=Путь_до_openjdk-amd64/ (указывая путь до Ope
 export PC2HOME=Путь_до_PC^2 (указывая путь до распакованной папки PC^2)
 export PATH="$PC2HOME/bin:$PATH:$JAVAHOME/bin" (добавьте эти пути к переменной $PATH)
 ```
-Пример:
-![Screenshot](https://github.com/gehat/jedgement_system/master/image/1.png)
+Пример:<br />
+![Screenshot](image/1.jpg)
+## Шаг 3: Распаковка WebTeamInterface
+Распакуйте архив "WebTeamInterface.zip" в любую директорию на вашем компьютере
