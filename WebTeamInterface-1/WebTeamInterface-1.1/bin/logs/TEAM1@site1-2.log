@@ -1,0 +1,21 @@
+230713 061716.978|CONFIG|Thread-57|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 061716.978|INFO|Thread-57|log|
+230713 061716.978|INFO|Thread-57|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 061716.978|INFO|Thread-57|log|Login: team1 (aka team1)
+230713 061716.979|INFO|Thread-57|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 061716.979|INFO|Thread-57|log|Process id is 2061@debian
+230713 061716.979|INFO|Thread-57|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 061716.979|INFO|Thread-57|log|handlePacket end Packet[LOGIN_SUCCESS] #45 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061716.979|INFO|Thread-57|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #45 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061812.856|INFO|Thread-58|log| receiveObject(S) start got Packet[ADD_SETTING] #47 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 061812.856|INFO|Thread-58|log|Packet ADD_SETTING (Seq #47, o#9 ) recieveObject
+230713 061812.856|INFO|Thread-58|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061812.856|INFO|Thread-58|log|    To: SERVER0 @ site 0
+230713 061812.856|INFO|Thread-58|log|   key: LANGUAGE is: edu.csus.ecs.pc2.core.model.Language Python
+230713 061812.856|INFO|Thread-58|log|handlePacket start Packet[ADD_SETTING] #47 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 061812.856|INFO|Thread-58|log|Packet ADD_SETTING (Seq #47, o#9 ) handlePacket
+230713 061812.856|INFO|Thread-58|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061812.856|INFO|Thread-58|log|    To: SERVER0 @ site 0
+230713 061812.856|INFO|Thread-58|log|   key: LANGUAGE is: edu.csus.ecs.pc2.core.model.Language Python
+230713 061812.857|INFO|Thread-58|log|handlePacket end Packet[ADD_SETTING] #47 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 061812.858|INFO|Thread-58|log| receiveObject(S) end   got Packet[ADD_SETTING] #47 SERVER0 @ site 1 -> SERVER0 @ site 0

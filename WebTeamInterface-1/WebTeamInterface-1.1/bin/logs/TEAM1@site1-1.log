@@ -1,0 +1,9 @@
+230713 061237.176|CONFIG|Thread-51|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 061237.177|INFO|Thread-51|log|
+230713 061237.177|INFO|Thread-51|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 061237.177|INFO|Thread-51|log|Login: team1 (aka team1)
+230713 061237.177|INFO|Thread-51|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 061237.177|INFO|Thread-51|log|Process id is 2061@debian
+230713 061237.177|INFO|Thread-51|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 061237.177|INFO|Thread-51|log|handlePacket end Packet[LOGIN_SUCCESS] #39 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061237.177|INFO|Thread-51|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #39 SERVER0 @ site 1 -> TEAM1 @ site 1

@@ -1,0 +1,82 @@
+230713 061821.618|CONFIG|Thread-65|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 061821.618|INFO|Thread-65|log|
+230713 061821.618|INFO|Thread-65|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 061821.618|INFO|Thread-65|log|Login: team1 (aka team1)
+230713 061821.618|INFO|Thread-65|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 061821.618|INFO|Thread-65|log|Process id is 2061@debian
+230713 061821.618|INFO|Thread-65|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 061821.618|INFO|Thread-65|log|handlePacket end Packet[LOGIN_SUCCESS] #52 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061821.618|INFO|Thread-65|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #52 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061850.099|INFO|qtp257608164-26|log|Sending packet to server Packet[RUN_SUBMISSION] #9 TEAM1 @ site 1 -> SERVER0 @ site 1
+230713 061850.099|INFO|qtp257608164-26|log|Sent    packet to server Packet[RUN_SUBMISSION] #9 TEAM1 @ site 1 -> SERVER0 @ site 1
+230713 061850.177|INFO|Thread-67|log| receiveObject(S) start got Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061850.177|INFO|Thread-67|log|Packet RUN_SUBMISSION_CONFIRM (Seq #54, o#54 ) recieveObject
+230713 061850.177|INFO|Thread-67|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061850.177|INFO|Thread-67|log|    To: TEAM1 @ site 1
+230713 061850.177|INFO|Thread-67|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 QUEUED_FOR_COMPUTER_JUDGEMENT 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 061850.177|INFO|Thread-67|log|handlePacket start Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061850.177|INFO|Thread-67|log|Packet RUN_SUBMISSION_CONFIRM (Seq #54, o#54 ) handlePacket
+230713 061850.177|INFO|Thread-67|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061850.177|INFO|Thread-67|log|    To: TEAM1 @ site 1
+230713 061850.177|INFO|Thread-67|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 QUEUED_FOR_COMPUTER_JUDGEMENT 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 061850.182|INFO|Thread-67|log| receiveObject(S) end   got Packet[RUN_SUBMISSION_CONFIRM] #54 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061851.943|INFO|Thread-74|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #58 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061851.943|INFO|Thread-74|log|Packet RUN_JUDGEMENT (Seq #58, o#58 ) recieveObject
+230713 061851.943|INFO|Thread-74|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061851.943|INFO|Thread-74|log|    To: TEAM1 @ site 1
+230713 061851.943|INFO|Thread-74|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by JUDGE1 @ site 1 judgement No_-_Run-time_Error--6436170892461826224 id JudgementRecord-4011920530919827333
+230713 061851.943|INFO|Thread-74|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 061851.943|INFO|Thread-74|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 061851.943|INFO|Thread-74|log|handlePacket start Packet[RUN_JUDGEMENT] #58 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 061851.943|INFO|Thread-74|log|Packet RUN_JUDGEMENT (Seq #58, o#58 ) handlePacket
+230713 061851.943|INFO|Thread-74|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 061851.943|INFO|Thread-74|log|    To: TEAM1 @ site 1
+230713 061851.943|INFO|Thread-74|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by JUDGE1 @ site 1 judgement No_-_Run-time_Error--6436170892461826224 id JudgementRecord-4011920530919827333
+230713 061851.943|INFO|Thread-74|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 061851.943|INFO|Thread-74|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 061851.945|INFO|Thread-74|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #58 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062102.288|INFO|Thread-79|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #62 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062102.288|INFO|Thread-79|log|Packet RUN_JUDGEMENT (Seq #62, o#62 ) recieveObject
+230713 062102.288|INFO|Thread-79|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062102.289|INFO|Thread-79|log|    To: TEAM1 @ site 1
+230713 062102.289|INFO|Thread-79|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord-1619566321564259020
+230713 062102.289|INFO|Thread-79|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062102.289|INFO|Thread-79|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062102.289|INFO|Thread-79|log|handlePacket start Packet[RUN_JUDGEMENT] #62 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062102.289|INFO|Thread-79|log|Packet RUN_JUDGEMENT (Seq #62, o#62 ) handlePacket
+230713 062102.289|INFO|Thread-79|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062102.289|INFO|Thread-79|log|    To: TEAM1 @ site 1
+230713 062102.289|INFO|Thread-79|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord-1619566321564259020
+230713 062102.289|INFO|Thread-79|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062102.289|INFO|Thread-79|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062102.291|INFO|Thread-79|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #62 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062113.290|INFO|Thread-85|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #65 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062113.290|INFO|Thread-85|log|Packet RUN_JUDGEMENT (Seq #65, o#65 ) recieveObject
+230713 062113.291|INFO|Thread-85|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062113.291|INFO|Thread-85|log|    To: TEAM1 @ site 1
+230713 062113.291|INFO|Thread-85|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by ADMINISTRATOR1 @ site 1 judgement No_-_Run-time_Error--6436170892461826224 id JudgementRecord-2745859076277163785
+230713 062113.291|INFO|Thread-85|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062113.291|INFO|Thread-85|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062113.291|INFO|Thread-85|log|handlePacket start Packet[RUN_JUDGEMENT] #65 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062113.291|INFO|Thread-85|log|Packet RUN_JUDGEMENT (Seq #65, o#65 ) handlePacket
+230713 062113.291|INFO|Thread-85|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062113.291|INFO|Thread-85|log|    To: TEAM1 @ site 1
+230713 062113.291|INFO|Thread-85|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by ADMINISTRATOR1 @ site 1 judgement No_-_Run-time_Error--6436170892461826224 id JudgementRecord-2745859076277163785
+230713 062113.291|INFO|Thread-85|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062113.291|INFO|Thread-85|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062113.291|INFO|Thread-85|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #65 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062122.776|INFO|Thread-91|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #68 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062122.776|INFO|Thread-91|log|Packet RUN_JUDGEMENT (Seq #68, o#68 ) recieveObject
+230713 062122.776|INFO|Thread-91|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062122.776|INFO|Thread-91|log|    To: TEAM1 @ site 1
+230713 062122.776|INFO|Thread-91|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord--4507767879127017098
+230713 062122.776|INFO|Thread-91|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062122.776|INFO|Thread-91|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062122.776|INFO|Thread-91|log|handlePacket start Packet[RUN_JUDGEMENT] #68 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 062122.776|INFO|Thread-91|log|Packet RUN_JUDGEMENT (Seq #68, o#68 ) handlePacket
+230713 062122.776|INFO|Thread-91|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 062122.776|INFO|Thread-91|log|    To: TEAM1 @ site 1
+230713 062122.776|INFO|Thread-91|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord--4507767879127017098
+230713 062122.776|INFO|Thread-91|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 062122.776|INFO|Thread-91|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 062122.777|INFO|Thread-91|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #68 SERVER0 @ site 1 -> TEAM1 @ site 1

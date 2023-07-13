@@ -1,0 +1,63 @@
+230713 063241.683|CONFIG|Thread-166|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 063241.683|INFO|Thread-166|log|
+230713 063241.683|INFO|Thread-166|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 063241.683|INFO|Thread-166|log|Login: team1 (aka team1)
+230713 063241.683|INFO|Thread-166|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 063241.683|INFO|Thread-166|log|Process id is 2061@debian
+230713 063241.684|INFO|Thread-166|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 063241.684|INFO|Thread-166|log|handlePacket end Packet[LOGIN_SUCCESS] #96 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063241.684|INFO|Thread-166|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #96 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063302.205|INFO|Thread-168|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #99 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063302.205|INFO|Thread-168|log|Packet RUN_JUDGEMENT (Seq #99, o#99 ) recieveObject
+230713 063302.205|INFO|Thread-168|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063302.205|INFO|Thread-168|log|    To: TEAM1 @ site 1
+230713 063302.205|INFO|Thread-168|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord-7047521094685346047
+230713 063302.205|INFO|Thread-168|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 063302.205|INFO|Thread-168|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 063302.205|INFO|Thread-168|log|handlePacket start Packet[RUN_JUDGEMENT] #99 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063302.205|INFO|Thread-168|log|Packet RUN_JUDGEMENT (Seq #99, o#99 ) handlePacket
+230713 063302.205|INFO|Thread-168|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063302.205|INFO|Thread-168|log|    To: TEAM1 @ site 1
+230713 063302.205|INFO|Thread-168|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord Yes by ADMINISTRATOR1 @ site 1 judgement Yes-8732752453758966763 id JudgementRecord-7047521094685346047
+230713 063302.205|INFO|Thread-168|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 063302.205|INFO|Thread-168|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 063302.206|INFO|Thread-168|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #99 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063350.209|INFO|Thread-178|log| receiveObject(S) start got Packet[UPDATE_SETTING] #103 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063350.209|INFO|Thread-178|log|Packet UPDATE_SETTING (Seq #103, o#34 ) recieveObject
+230713 063350.209|INFO|Thread-178|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063350.209|INFO|Thread-178|log|    To: SERVER0 @ site 0
+230713 063350.209|INFO|Thread-178|log|   key: JUDGEMENT is: edu.csus.ecs.pc2.core.model.Judgement Недопустимый формат вывода
+230713 063350.210|INFO|Thread-178|log|handlePacket start Packet[UPDATE_SETTING] #103 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063350.210|INFO|Thread-178|log|Packet UPDATE_SETTING (Seq #103, o#34 ) handlePacket
+230713 063350.210|INFO|Thread-178|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063350.210|INFO|Thread-178|log|    To: SERVER0 @ site 0
+230713 063350.210|INFO|Thread-178|log|   key: JUDGEMENT is: edu.csus.ecs.pc2.core.model.Judgement Недопустимый формат вывода
+230713 063350.210|INFO|Thread-178|log|handlePacket end Packet[UPDATE_SETTING] #103 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063350.210|INFO|Thread-178|log| receiveObject(S) end   got Packet[UPDATE_SETTING] #103 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log| receiveObject(S) start got Packet[UPDATE_SETTING] #104 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log|Packet UPDATE_SETTING (Seq #104, o#35 ) recieveObject
+230713 063412.120|INFO|Thread-186|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063412.120|INFO|Thread-186|log|    To: SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log|   key: JUDGEMENT is: edu.csus.ecs.pc2.core.model.Judgement Неизвестная ошибка - свяжитесь с персоналом
+230713 063412.120|INFO|Thread-186|log|handlePacket start Packet[UPDATE_SETTING] #104 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log|Packet UPDATE_SETTING (Seq #104, o#35 ) handlePacket
+230713 063412.120|INFO|Thread-186|log|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063412.120|INFO|Thread-186|log|    To: SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log|   key: JUDGEMENT is: edu.csus.ecs.pc2.core.model.Judgement Неизвестная ошибка - свяжитесь с персоналом
+230713 063412.120|INFO|Thread-186|log|handlePacket end Packet[UPDATE_SETTING] #104 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063412.120|INFO|Thread-186|log| receiveObject(S) end   got Packet[UPDATE_SETTING] #104 SERVER0 @ site 1 -> SERVER0 @ site 0
+230713 063422.717|INFO|Thread-192|log| receiveObject(S) start got Packet[RUN_JUDGEMENT] #106 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063422.717|INFO|Thread-192|log|Packet RUN_JUDGEMENT (Seq #106, o#106 ) recieveObject
+230713 063422.717|INFO|Thread-192|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063422.717|INFO|Thread-192|log|    To: TEAM1 @ site 1
+230713 063422.717|INFO|Thread-192|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by ADMINISTRATOR1 @ site 1 judgement No_-_Other_-_Contact_Staff--1033875422557800920 id JudgementRecord--4805253023588271716
+230713 063422.717|INFO|Thread-192|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 063422.717|INFO|Thread-192|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 063422.717|INFO|Thread-192|log|handlePacket start Packet[RUN_JUDGEMENT] #106 SERVER0 @ site 1 -> TEAM1 @ site 1
+230713 063422.717|INFO|Thread-192|log|Packet RUN_JUDGEMENT (Seq #106, o#106 ) handlePacket
+230713 063422.717|INFO|Thread-192|log|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (debian @ 127.0.1.1) (Contest Id: Default-9016445944726128161)
+230713 063422.717|INFO|Thread-192|log|    To: TEAM1 @ site 1
+230713 063422.717|INFO|Thread-192|log|   key: JUDGEMENT_RECORD is: edu.csus.ecs.pc2.core.model.JudgementRecord No by ADMINISTRATOR1 @ site 1 judgement No_-_Other_-_Contact_Staff--1033875422557800920 id JudgementRecord--4805253023588271716
+230713 063422.717|INFO|Thread-192|log|   key: RUN is: edu.csus.ecs.pc2.core.model.Run Run 1 JUDGED 6 min 381341ms from TEAM1 @ site 1 id Run-5323681938182949317 problem 123-4514724288476744596 lang Python-2882540294454077980
+230713 063422.717|INFO|Thread-192|log|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+230713 063422.718|INFO|Thread-192|log| receiveObject(S) end   got Packet[RUN_JUDGEMENT] #106 SERVER0 @ site 1 -> TEAM1 @ site 1

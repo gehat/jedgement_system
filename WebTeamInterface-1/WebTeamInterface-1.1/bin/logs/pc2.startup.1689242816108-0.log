@@ -1,0 +1,11 @@
+230713 060656.109|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060656.109|INFO|main|log|
+230713 060656.110|INFO|main|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 060656.110|INFO|main|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 060656.124|INFO|main|log|Process id is 1493@debian
+230713 060656.125|INFO|main|log|Starting ConnectionManager...
+230713 060656.154|INFO|main|log|Started ConnectionManager
+230713 060656.156|INFO|main|log|INIFile File location: file:/home/leonid/WebTeamInterface-1.1/bin/pc2v9.ini
+230713 060656.156|INFO|main|log|setClientServerAndPort localhost parsed as localhost port 50002
+230713 060656.156|INFO|main|log|Contacting server at localhost:50002
+230713 060656.156|INFO|main|log|Connecting to localhost:50002

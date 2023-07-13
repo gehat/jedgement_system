@@ -1,0 +1,11 @@
+230705 081747.892|CONFIG|qtp257608164-26|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081747.893|INFO|qtp257608164-26|log|
+230705 081747.893|INFO|qtp257608164-26|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 081747.893|INFO|qtp257608164-26|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 081747.893|INFO|qtp257608164-26|log|Process id is 10782@debian
+230705 081747.893|INFO|qtp257608164-26|log|Starting ConnectionManager...
+230705 081747.896|INFO|qtp257608164-26|log|Started ConnectionManager
+230705 081747.896|INFO|qtp257608164-26|log|INIFile File location: file:/home/leonid/WebTeamInterface-1.1/bin/pc2v9.ini
+230705 081747.897|INFO|qtp257608164-26|log|setClientServerAndPort localhost parsed as localhost port 50002
+230705 081747.897|INFO|qtp257608164-26|log|Contacting server at localhost:50002
+230705 081747.897|INFO|qtp257608164-26|log|Connecting to localhost:50002

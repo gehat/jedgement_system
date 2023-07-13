@@ -1,0 +1,143 @@
+230705 081626.334|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081626.334|INFO|Thread-3|log|
+230705 081626.334|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 081626.337|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 081626.337|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 081626.337|INFO|Thread-3|log|Process id is 10215@debian
+230705 081626.337|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 081626.337|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #81 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081626.337|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #81 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081626.647|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081626.647|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081733.375|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081733.375|INFO|Thread-3|log|
+230705 081733.375|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 081733.375|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 081733.375|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 081733.376|INFO|Thread-3|log|Process id is 10782@debian
+230705 081733.376|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 081733.376|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #86 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081733.379|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #86 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081733.682|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081733.682|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081815.154|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081815.155|INFO|Thread-3|log|
+230705 081815.155|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 081815.155|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 081815.155|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 081815.155|INFO|Thread-3|log|Process id is 10888@debian
+230705 081815.156|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 081815.156|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #101 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081815.156|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #101 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081815.474|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081815.475|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081852.418|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081852.418|INFO|Thread-3|log|
+230705 081852.418|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 081852.418|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 081852.418|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 081852.418|INFO|Thread-3|log|Process id is 10951@debian
+230705 081852.418|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 081852.419|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #106 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081852.419|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #106 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 081852.711|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 081852.712|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 082044.886|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 082044.886|INFO|Thread-3|log|
+230705 082044.887|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 082044.887|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 082044.887|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 082044.887|INFO|Thread-3|log|Process id is 11109@debian
+230705 082044.887|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 082044.887|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #121 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 082044.892|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #121 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 082045.210|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 082045.211|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 082111.240|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 082111.240|INFO|Thread-3|log|
+230705 082111.240|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230705 082111.242|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230705 082111.242|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230705 082111.243|INFO|Thread-3|log|Process id is 11181@debian
+230705 082111.243|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230705 082111.243|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #126 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 082111.243|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #126 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230705 082111.518|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230705 082111.518|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054213.214|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054213.216|INFO|Thread-3|log|
+230713 054213.216|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 054213.216|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 054213.216|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 054213.217|INFO|Thread-3|log|Process id is 2356@debian
+230713 054213.217|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 054213.217|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054213.217|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054213.574|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054213.574|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054424.691|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054424.691|INFO|Thread-3|log|
+230713 054424.692|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 054424.692|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 054424.692|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 054424.692|INFO|Thread-3|log|Process id is 3090@debian
+230713 054424.692|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 054424.692|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054424.692|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #8 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054424.980|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054424.980|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054625.092|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054625.093|INFO|Thread-3|log|
+230713 054625.095|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 054625.095|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 054625.096|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 054625.096|INFO|Thread-3|log|Process id is 3620@debian
+230713 054625.096|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 054625.096|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054625.098|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #13 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 054625.414|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 054625.415|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 055422.121|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 055422.122|INFO|Thread-3|log|
+230713 055422.122|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 055422.122|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 055422.122|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 055422.122|INFO|Thread-3|log|Process id is 6089@debian
+230713 055422.123|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 055422.123|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #18 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 055422.123|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #18 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 055422.409|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 055422.409|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060136.200|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060136.201|INFO|Thread-3|log|
+230713 060136.201|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 060136.201|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 060136.201|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 060136.201|INFO|Thread-3|log|Process id is 6759@debian
+230713 060136.203|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 060136.203|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #23 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060136.203|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #23 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060136.519|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060136.519|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060716.471|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060716.472|INFO|Thread-3|log|
+230713 060716.472|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 060716.472|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 060716.472|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 060716.472|INFO|Thread-3|log|Process id is 1590@debian
+230713 060716.472|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 060716.472|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #12 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060716.472|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #12 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060716.782|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060716.782|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060757.164|CONFIG|Thread-3|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060757.164|INFO|Thread-3|log|
+230713 060757.164|INFO|Thread-3|log|Version 9 () Java ver 17.0.7 build  Linux 6.1.0-9-amd64 (amd64) 
+230713 060757.167|INFO|Thread-3|log|Login: scoreboard2 (aka scoreboard2)
+230713 060757.167|INFO|Thread-3|log|Working directory is /home/leonid/WebTeamInterface-1.1/bin
+230713 060757.167|INFO|Thread-3|log|Process id is 2061@debian
+230713 060757.167|INFO|Thread-3|log| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+230713 060757.167|INFO|Thread-3|log|handlePacket end Packet[LOGIN_SUCCESS] #17 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060757.167|INFO|Thread-3|log| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #17 SERVER0 @ site 1 -> SCOREBOARD2 @ site 1
+230713 060757.454|INFO|main|log|Sending packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1
+230713 060757.454|INFO|main|log|Sent    packet to server Packet[LOGOUT] #2 SCOREBOARD2 @ site 1 -> SERVER0 @ site 1

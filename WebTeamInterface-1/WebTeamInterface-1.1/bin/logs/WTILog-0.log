@@ -1,0 +1,192 @@
+230705 081626.038|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081626.058|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 081626.059|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 081626.647|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 081626.647|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 081626.647|INFO|main|log|Constructing Jetty service handlers
+230705 081626.746|INFO|main|log|Creating Jetty server
+230705 081626.753|INFO|main|log|Installing service handlers in Jetty
+230705 081626.753|INFO|main|log|Starting Jetty server
+230705 081733.029|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081733.061|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 081733.063|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 081733.681|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 081733.682|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 081733.682|INFO|main|log|Constructing Jetty service handlers
+230705 081733.785|INFO|main|log|Creating Jetty server
+230705 081733.792|INFO|main|log|Installing service handlers in Jetty
+230705 081733.793|INFO|main|log|Starting Jetty server
+230705 081748.402|INFO|qtp257608164-26|log|Logged in: team1
+230705 081748.472|INFO|qtp257608164-19|log|Returning 'OK' for team team1
+230705 081749.005|FINE|qtp257608164-25|log|Constructing DSA for Contest Controller
+230705 081814.857|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081814.882|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 081814.884|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 081815.474|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 081815.474|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 081815.476|INFO|main|log|Constructing Jetty service handlers
+230705 081815.589|INFO|main|log|Creating Jetty server
+230705 081815.599|INFO|main|log|Installing service handlers in Jetty
+230705 081815.599|INFO|main|log|Starting Jetty server
+230705 081852.097|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 081852.120|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 081852.122|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 081852.711|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 081852.711|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 081852.712|INFO|main|log|Constructing Jetty service handlers
+230705 081852.802|INFO|main|log|Creating Jetty server
+230705 081852.810|INFO|main|log|Installing service handlers in Jetty
+230705 081852.810|INFO|main|log|Starting Jetty server
+230705 081905.278|INFO|qtp257608164-25|log|Logged in: team1
+230705 081905.357|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230705 081905.839|FINE|qtp257608164-25|log|Constructing DSA for Contest Controller
+230705 082044.597|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 082044.620|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 082044.622|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 082045.210|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 082045.210|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 082045.211|INFO|main|log|Constructing Jetty service handlers
+230705 082045.337|INFO|main|log|Creating Jetty server
+230705 082045.352|INFO|main|log|Installing service handlers in Jetty
+230705 082045.352|INFO|main|log|Starting Jetty server
+230705 082110.903|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230705 082110.927|FINE|main|log|Verifying PC2 scoreboard account login...
+230705 082110.930|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230705 082111.517|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230705 082111.518|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230705 082111.518|INFO|main|log|Constructing Jetty service handlers
+230705 082111.607|INFO|main|log|Creating Jetty server
+230705 082111.614|INFO|main|log|Installing service handlers in Jetty
+230705 082111.614|INFO|main|log|Starting Jetty server
+230705 082121.626|INFO|qtp257608164-23|log|Logged in: team1
+230705 082121.690|INFO|qtp257608164-24|log|Returning 'OK' for team team1
+230705 082122.195|FINE|qtp257608164-23|log|Constructing DSA for Contest Controller
+230705 082144.834|FINE|qtp257608164-23|log|Looking up team login connection
+230705 082144.834|INFO|qtp257608164-23|log|Standings requested by team team1
+230705 082144.834|INFO|qtp257608164-23|log|Standings are not current; invoking DSA to update
+230705 082144.834|FINE|qtp257608164-23|log|DEBUG: using freezeSeconds of 14400 for str 01:00:00, with isThawn=false
+230705 082144.899|INFO|qtp257608164-23|log|Converting DSA XML to JSON
+230705 082144.902|INFO|qtp257608164-23|log|Returning JSON standings in HTTP Response
+230705 082215.886|INFO|qtp257608164-26|log|Returning 'OK' for team team1
+230705 082257.574|INFO|qtp257608164-24|log|Returning 'OK' for team team1
+230705 082351.671|FINE|qtp257608164-22|log|Looking up team login connection
+230705 082351.672|INFO|qtp257608164-22|log|Standings requested by team team1
+230705 082351.672|INFO|qtp257608164-22|log|Returning JSON standings in HTTP Response
+230705 082354.330|INFO|qtp257608164-19|log|Returning 'OK' for team team1
+230705 082656.406|INFO|qtp257608164-19|log|Returning 'OK' for team team1
+230705 082707.610|INFO|qtp257608164-20|log|Returning 'OK' for team team1
+230713 054212.941|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054212.966|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 054212.968|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 054213.573|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 054213.573|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 054213.574|INFO|main|log|Constructing Jetty service handlers
+230713 054213.710|INFO|main|log|Creating Jetty server
+230713 054213.720|INFO|main|log|Installing service handlers in Jetty
+230713 054213.720|INFO|main|log|Starting Jetty server
+230713 054424.355|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054424.385|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 054424.387|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 054424.979|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 054424.979|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 054424.980|INFO|main|log|Constructing Jetty service handlers
+230713 054425.083|INFO|main|log|Creating Jetty server
+230713 054425.089|INFO|main|log|Installing service handlers in Jetty
+230713 054425.089|INFO|main|log|Starting Jetty server
+230713 054624.786|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 054624.810|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 054624.812|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 054625.414|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 054625.414|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 054625.415|INFO|main|log|Constructing Jetty service handlers
+230713 054625.561|INFO|main|log|Creating Jetty server
+230713 054625.569|INFO|main|log|Installing service handlers in Jetty
+230713 054625.569|INFO|main|log|Starting Jetty server
+230713 055421.706|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 055421.749|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 055421.753|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 055422.408|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 055422.409|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 055422.409|INFO|main|log|Constructing Jetty service handlers
+230713 055422.588|INFO|main|log|Creating Jetty server
+230713 055422.600|INFO|main|log|Installing service handlers in Jetty
+230713 055422.600|INFO|main|log|Starting Jetty server
+230713 060135.894|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060135.919|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 060135.922|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 060136.519|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 060136.519|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 060136.519|INFO|main|log|Constructing Jetty service handlers
+230713 060136.626|INFO|main|log|Creating Jetty server
+230713 060136.633|INFO|main|log|Installing service handlers in Jetty
+230713 060136.633|INFO|main|log|Starting Jetty server
+230713 060656.042|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060656.073|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 060656.077|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 060656.671|SEVERE|main|log|WTI Login failed for scoreboard account 'scoreboard2': Login denied No such account
+230713 060656.672|SEVERE|main|log|WTI server failed to login with PC2 Scoreboard account: edu.csus.ecs.pc2.api.exceptions.LoginFailureException: PC2 Scoreboard login failed
+230713 060716.174|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060716.193|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 060716.195|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 060716.782|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 060716.782|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 060716.782|INFO|main|log|Constructing Jetty service handlers
+230713 060716.960|INFO|main|log|Creating Jetty server
+230713 060716.971|INFO|main|log|Installing service handlers in Jetty
+230713 060716.971|INFO|main|log|Starting Jetty server
+230713 060756.832|CONFIG|main|log|Now logging to /home/leonid/WebTeamInterface-1.1/bin/logs directory.
+230713 060756.854|FINE|main|log|Verifying PC2 scoreboard account login...
+230713 060756.856|FINE|main|log|Attempting to login to PC2 scoreboard account 'scoreboard2'
+230713 060757.453|FINE|main|log|Successfully logged in to PC2 scoreboard account
+230713 060757.454|FINE|main|log|Logging back out of PC2 scoreboard account pending team connections
+230713 060757.454|INFO|main|log|Constructing Jetty service handlers
+230713 060757.601|INFO|main|log|Creating Jetty server
+230713 060757.608|INFO|main|log|Installing service handlers in Jetty
+230713 060757.609|INFO|main|log|Starting Jetty server
+230713 060809.774|INFO|qtp257608164-19|log|Logged in: team1
+230713 060809.864|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 060810.384|FINE|qtp257608164-20|log|Constructing DSA for Contest Controller
+230713 060856.462|FINE|qtp257608164-20|log|Looking up team login connection
+230713 060856.462|INFO|qtp257608164-20|log|Standings requested by team team1
+230713 060856.462|INFO|qtp257608164-20|log|Standings are not current; invoking DSA to update
+230713 060856.462|FINE|qtp257608164-20|log|DEBUG: using freezeSeconds of 14400 for str 01:00:00, with isThawn=false
+230713 060856.527|INFO|qtp257608164-20|log|Converting DSA XML to JSON
+230713 060856.532|INFO|qtp257608164-20|log|Returning JSON standings in HTTP Response
+230713 060901.539|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 061231.123|INFO|qtp257608164-25|log|Logged out team team1
+230713 061237.555|INFO|qtp257608164-26|log|Logged in: team1
+230713 061237.581|INFO|qtp257608164-25|log|Returning 'OK' for team team1
+230713 061717.313|INFO|qtp257608164-26|log|Logged in: team1
+230713 061717.354|INFO|qtp257608164-26|log|Returning 'OK' for team team1
+230713 061821.959|INFO|qtp257608164-23|log|Logged in: team1
+230713 061821.988|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 061850.099|INFO|qtp257608164-26|log|Submitted judged run to PC2 server for team team1, response = 200
+230713 061850.109|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 061851.958|INFO|qtp257608164-26|log|Returning 'OK' for team team1
+230713 061851.969|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 062102.305|INFO|qtp257608164-71|log|Returning 'OK' for team team1
+230713 062102.319|INFO|qtp257608164-56|log|Returning 'OK' for team team1
+230713 062113.316|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 062113.319|INFO|qtp257608164-71|log|Returning 'OK' for team team1
+230713 062122.794|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 062122.797|INFO|qtp257608164-56|log|Returning 'OK' for team team1
+230713 062307.669|INFO|qtp257608164-71|log|Logged in: team1
+230713 062307.697|INFO|qtp257608164-70|log|Returning 'OK' for team team1
+230713 062320.203|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 062320.209|INFO|qtp257608164-70|log|Returning 'OK' for team team1
+230713 062543.167|INFO|qtp257608164-71|log|Returning 'OK' for team team1
+230713 062543.178|INFO|qtp257608164-70|log|Returning 'OK' for team team1
+230713 063218.769|INFO|qtp257608164-71|log|Returning 'OK' for team team1
+230713 063218.773|INFO|qtp257608164-22|log|Returning 'OK' for team team1
+230713 063241.980|INFO|qtp257608164-22|log|Logged in: team1
+230713 063242.030|INFO|qtp257608164-24|log|Returning 'OK' for team team1
+230713 063302.222|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 063302.233|INFO|qtp257608164-22|log|Returning 'OK' for team team1
+230713 063422.728|INFO|qtp257608164-56|log|Returning 'OK' for team team1
+230713 063422.737|INFO|qtp257608164-23|log|Returning 'OK' for team team1
+230713 063532.712|FINE|qtp257608164-24|log|Looking up team login connection
+230713 063532.712|INFO|qtp257608164-24|log|Standings requested by team team1
+230713 063532.712|INFO|qtp257608164-24|log|Standings are not current; invoking DSA to update
+230713 063532.713|FINE|qtp257608164-24|log|DEBUG: using freezeSeconds of 14400 for str 01:00:00, with isThawn=false
+230713 063532.716|INFO|qtp257608164-24|log|Converting DSA XML to JSON
+230713 063532.716|INFO|qtp257608164-24|log|Returning JSON standings in HTTP Response
